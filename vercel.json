@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/css/(.*)",
+      "source": "/v6.5.1/css/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "source": "/js/(.*)",
+      "source": "/v6.5.1/js/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "source": "/fonts/(.*)",
+      "source": "/v6.5.1/fonts/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "source": "/images/(.*)",
+      "source": "/v6.5.1/images/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
